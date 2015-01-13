@@ -19,7 +19,6 @@ L<http:github.com/emollient/>
 =back
 
 =head2 Objective
-
 I am looking for a double-block co-op starting May 2015 until Decemeber of 2015.
 
 =head2 Education
@@ -28,9 +27,13 @@ I am looking for a double-block co-op starting May 2015 until Decemeber of 2015.
 
 =item Rochester Institute of Technology - Rochester, NY
 
-=item Major: B.S./M.S. Computer Science
+=item 
 
-=item Expected graduation: May 2018
+Major: B.S. Computer Science
+
+=item 
+
+Expected graduation: May 2018
 
 =back
 
@@ -40,28 +43,45 @@ I am looking for a double-block co-op starting May 2015 until Decemeber of 2015.
 
 =over
 
-=item Back-end web developer - R+D
+=item 
 
-=item 08/15/2014 - Current
+Back-end web developer - R+D
+
+=item 
+
+08/15/2014 - Current
+
+=item
+
+L<http://magic.rit.edu/foss/>
 
 =back
 
-Stuff about archivesspace and jewish toy project
+Working on writing a web application that uses ArchivesSpace - a standard for
+museum websites, to display data about toy makers. It is meant to be displayed 
+in a children’s museum soon.
 
 =head3 Earth Moves
 
 =over
 
-=item Web developer 
+=item 
 
-=item 04/15/2014 - 08/15/2014
+Web developer 
+
+=item 
+
+04/15/2014 - 08/15/2014
 
 =back 
 
-Project information about that shit
+Worked on several applications per client request. My two main projects were building a web scraper
+to pull thousands of eye glass frames and aggregate them, from several websites, this was written using the
+Python library Scrapy and bootstrap CSS to display data. Then I built a web application for doctor’s and
+hospitals to manage their operation trays, which was written in Python using the Pyramid Pylons framework
+and bootstrap CSS framework.
 
-
-=head2 Technical Skills & Certifications
+=head2 Technical Skills
 
 =over
 
@@ -69,63 +89,49 @@ Project information about that shit
 
 =over
 
-=back
-
 =item
 
-Operating Systems
-
-=over
-
-=item Linux 
+Python, C, BASH, Java
 
 =back
 
-=item
-
-Server Administration
+=item Exposed Languages
 
 =over
 
 =item
 
-LDAP, Kerberos, BIND, DHCPD, MediaWiki, Apache
+Julia, Haskell, Go, Javascript
 
 =back
 
-=item
+=item Operating Systems
 
-Networking
+=over
 
-=item
-
-TCP/UDP, IPv4, IPv6, DNS, DHCP, IPSec, SSL, X.509
-
-=back
+=item Linux distros
 
 =over
 
 =item
 
-Tools
-
-=over
-
-=item
-
-Make, Autotools, CMake, LLVM, Regex, LaTeX
+Arch, Fedora(16+)
 
 =back
 
 =item
 
-Certifications
+OSX
+
+=back
+
+=item Tools
 
 =over
 
 =item
 
-Cisco Academy, with honors (terms 1 and 2), A+
+Docker, Git, Make, LaTeX, parted
 
 =back
 
@@ -143,11 +149,27 @@ CSH - Computer Science House
 
 =item
 
-Network Administrator
+Full active member
 
 =item
 
 L<http://www.csh.rit.edu/>
+
+=back
+
+=item
+
+FOSS@MAGIC(Free Open Source Software) - Active member
+
+=over
+
+=item
+
+Collaborate to make free, open source software and to hack cool things.
+
+=item
+
+L<http://magic.rit.edu/foss/>
 
 =back
 
@@ -159,7 +181,7 @@ US FIRST Robotics Team 1230
 
 =item
 
-Lead programmer
+Programmer
 
 =item
 
@@ -167,43 +189,7 @@ L<http://www.usfirst.org/>
 
 =back
 
-=item
-
-Rocking the Boat
-
-=over
-
-=item
-
-Built a boat for children from the South Bronx
-
-=item
-
-L<http://www.rockingtheboat.org/>
-
 =back
-
-=back
-
-=head2 Honors & Awards
-
-=over
-
-=item
-
-NYC Regional Robotics Award winner - 27th place nationally
-
-=item
-
-Visual Basic programming award for academic excellence 2005
-
-=back
-
-=head2 Special Accomplishments
-
-At age 8, built my first computer. At age 10, worked my first job at City Island
-Computer Services. At age 12, attended my first programming class at Lehman
-College.
 
 =for comment
 vim:tw=80
