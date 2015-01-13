@@ -19,7 +19,19 @@ L<http:github.com/emollient/>
 =back
 
 =head2 Objective
+
 I am looking for a double-block co-op starting May 2015 until Decemeber of 2015.
+
+=head2 Summary
+
+I am incredibly passionate about Free Open Source Software and Women in Computing.
+These are both issues I hold near and dear and try my hardest to contribute to each
+to their respective communities. When time permits, I am contributing to open source
+projects on Github as well as volunteering for the local chapter of Girl Develop It. 
+I've also come to realize that most of my learning, especially in the Computer Science 
+field, must be done outside of the classroom setting. As such, I spend much of my 
+free time working on personal projects and have subsequently been able to pick up
+new things relatively quickly.
 
 =head2 Education
 
@@ -34,6 +46,130 @@ Major: B.S. Computer Science
 =item 
 
 Expected graduation: May 2018
+
+=back
+
+
+=head2 Technical Skills
+
+=over
+
+=item Fluent Languages
+
+=over
+
+=item
+
+Python, C, BASH, Java
+
+=back
+
+=item Exposed Languages
+
+=over
+
+=item
+
+Julia, Haskell, Go, Javascript
+
+=back
+
+=item Operating Systems
+
+=over
+
+=item
+
+Arch, Fedora(16+), OSX
+
+=back
+
+=item Tools
+
+=over
+
+=item
+
+Docker, Git, Make, LaTeX, parted
+
+=back
+
+=back
+
+=head2 Current Personal Projects
+
+=head3 Deploying Docker
+
+=over
+
+=item
+
+November 2014
+
+=item
+
+Deployed a linux container platform that allows the automation of software applications on a local Computer
+Science House machine known as Hactar. Docker builds on top of a few different linux container technologies,
+and we used it as a test platform for in-house written applications
+
+=back
+
+=head3 Algorithmically
+
+=over
+
+=item
+
+December 2014 - Present
+
+=item
+
+L<https://github.com/emollient/Algorithmically>
+
+=item
+
+Implements several different common algorithms and data structures in popular as well as new, cutting edge
+programming languages. Then running the unix time command and some nifty bash, it records the time
+each algorithm takes to run and stores the value. The values are then graphified and published online, using
+D3 javascript to graphify them
+
+=back
+
+=head3 Git By a Truck
+
+=over
+
+=item 
+
+September 2014 - Present
+
+=item
+
+L<https://github.com/ryansb/gitbyatruck>
+
+=item
+
+It is a replacement for the tool known as ”git by a bus” which scans through a repository and checks
+which developers commited to which file. ”Git by a Truck” answers the question about a repository ”if 20%
+of the developer team were to be hit by a bus, would the project survive?” The project is written using
+the Pyramid framework, a python web framework. Using libgit for C bindings, and stored procedures that
+are triggered on insert, we add information about a repository and process it. The front-end rest points are
+currently being written by me, as well as pretty D3 javascript graphs.
+
+=back
+
+=head3 MyShell
+
+=over
+
+=item
+
+December 2014
+
+=item
+
+Wrote a basic unix shell in C that implements piping, standard I/O redirection and all commands found
+within the PATH variable as well as a set of its own internal commands.
 
 =back
 
@@ -80,62 +216,6 @@ to pull thousands of eye glass frames and aggregate them, from several websites,
 Python library Scrapy and bootstrap CSS to display data. Then I built a web application for doctor’s and
 hospitals to manage their operation trays, which was written in Python using the Pyramid Pylons framework
 and bootstrap CSS framework.
-
-=head2 Technical Skills
-
-=over
-
-=item Fluent Languages
-
-=over
-
-=item
-
-Python, C, BASH, Java
-
-=back
-
-=item Exposed Languages
-
-=over
-
-=item
-
-Julia, Haskell, Go, Javascript
-
-=back
-
-=item Operating Systems
-
-=over
-
-=item Linux distros
-
-=over
-
-=item
-
-Arch, Fedora(16+)
-
-=back
-
-=item
-
-OSX
-
-=back
-
-=item Tools
-
-=over
-
-=item
-
-Docker, Git, Make, LaTeX, parted
-
-=back
-
-=back
 
 =head2 Extracurricular
 
