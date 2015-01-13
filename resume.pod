@@ -19,7 +19,6 @@ L<http:github.com/emollient/>
 =back
 
 =head2 Objective
-
 I am looking for a double-block co-op starting May 2015 until Decemeber of 2015.
 
 =head2 Education
