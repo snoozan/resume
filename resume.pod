@@ -1,0 +1,209 @@
+=head1 Susan Lunn
+
+=head2 Contact Information
+
+=over
+
+=item
+1535 South Ave
+
+=item
+Rochester, NY 14620
+
+=item
+L<slunn@csh.rit.edu>
+
+=item
+L<http:github.com/emollient/>
+
+=back
+
+=head2 Objective
+
+I am looking for a double-block co-op starting May 2015 until Decemeber of 2015.
+
+=head2 Education
+
+=over
+
+=item Rochester Institute of Technology - Rochester, NY
+
+=item Major: B.S./M.S. Computer Science
+
+=item Expected graduation: May 2018
+
+=back
+
+=head2 Experience
+
+=head3 MAGIC Center @ RIT
+
+=over
+
+=item Back-end web developer - R+D
+
+=item 08/15/2014 - Current
+
+=back
+
+Stuff about archivesspace and jewish toy project
+
+=head3 Earth Moves
+
+=over
+
+=item Web developer 
+
+=item 04/15/2014 - 08/15/2014
+
+=back 
+
+Project information about that shit
+
+
+=head2 Technical Skills & Certifications
+
+=over
+
+=item Fluent Languages
+
+=over
+
+=back
+
+=item
+
+Operating Systems
+
+=over
+
+=item Linux 
+
+=back
+
+=item
+
+Server Administration
+
+=over
+
+=item
+
+LDAP, Kerberos, BIND, DHCPD, MediaWiki, Apache
+
+=back
+
+=item
+
+Networking
+
+=item
+
+TCP/UDP, IPv4, IPv6, DNS, DHCP, IPSec, SSL, X.509
+
+=back
+
+=over
+
+=item
+
+Tools
+
+=over
+
+=item
+
+Make, Autotools, CMake, LLVM, Regex, LaTeX
+
+=back
+
+=item
+
+Certifications
+
+=over
+
+=item
+
+Cisco Academy, with honors (terms 1 and 2), A+
+
+=back
+
+=back
+
+=head2 Extracurricular
+
+=over
+
+=item
+
+CSH - Computer Science House
+
+=over
+
+=item
+
+Network Administrator
+
+=item
+
+L<http://www.csh.rit.edu/>
+
+=back
+
+=item
+
+US FIRST Robotics Team 1230
+
+=over
+
+=item
+
+Lead programmer
+
+=item
+
+L<http://www.usfirst.org/>
+
+=back
+
+=item
+
+Rocking the Boat
+
+=over
+
+=item
+
+Built a boat for children from the South Bronx
+
+=item
+
+L<http://www.rockingtheboat.org/>
+
+=back
+
+=back
+
+=head2 Honors & Awards
+
+=over
+
+=item
+
+NYC Regional Robotics Award winner - 27th place nationally
+
+=item
+
+Visual Basic programming award for academic excellence 2005
+
+=back
+
+=head2 Special Accomplishments
+
+At age 8, built my first computer. At age 10, worked my first job at City Island
+Computer Services. At age 12, attended my first programming class at Lehman
+College.
+
+=for comment
+vim:tw=80
