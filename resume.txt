@@ -12,7 +12,7 @@
 0.375in1.875in0.375in0.375in
 
 0em
-(a)(1)
+(1)
 
 
 
@@ -29,87 +29,119 @@ Contact
 
 Objective
 	
-    	I am looking for a double block co-op for summer and fall 2015, starting late May.
+    	Seeking 6 month co-op employment starting May 2015 until December
+        2015.
 	
-
-Summary
-    
-    I'm incredibly passionate about Free Open Source Software and Women in Computing. These are both issues I hold near and dear
-    and try my hardest to contribute to each of their respective communities. When time permits, I am contributing to open source 
-    projects such as Fedora as well as volunteering for the local chapter of Girl Develop It as a teacher/TA. I've also come to 
-    realize that most of my learning, especially in the Computer Science field, must be done outside of the classroom setting. As
-    such, I spend much of my free time working on personal projects and have subsequently been able to pick up new things relatively
-    quickly. 
-    
 
 Education
 	
 		[Rochester Institute of Technology] - Rochester, NY August 2013 - Present
 		  
 			Major: B.S./M.S. Computer Science
-			Major GPA: 3.5
+		 
+		  
+			Expected Graduation: May 2018
 		 
 	
 
 Technical Skills  Certifications
 	
-		[Fluent Languages]   
+		[Languages: ]   
 			Python
+            C
 			Bash
 			Java
-			Javascript
 		 
-		[Operating Systems]   
-			Linux[Server Management] 
+        [Exposed Languages: ]  
+            Julia
+            Haskell
+            Go
+            Javascript
+         
+		[Operating Systems: ]   
+            Linux 
 			Mac OS X
 		 
-		[Tools]   
+		[Tools: ]   
             Git
 			Make
-			Regex
 			
 		 
 	
 
-Personal Projects
+Current Personal Projects
     
+       Deploying DockerNovember 2014
+       
+       Deployed a linux container platform that allows the automation of
+       software applications on a local Computer Science House machine known
+       as Hactar. Docker builds on top of a few different linux container 
+       technologies, and we used it as a test platform for in-house written 
+       applications. 
+       
+       
+
+       AlgorithmicallyNovember 2014
+       
+       Implements several different common algorithms and data structures in 
+       popular as well as new, cutting edge programming languages. Then running
+       the unix time command and some nifty bash, it records the time each
+       algorithm takes to run and stores the value. The values are then
+       graphified and published online, using D3 javascript to graphify them.
+       
+       
+
+       MyShellDecember 2014
+       
+       Wrote a basic unix shell in C that implements piping, standard I/O
+       redirection and all commands found within the PATH variable as 
+       well as a set of its own internal commands.
+       
+       
+
         Git by a TruckSeptember 2014https://github.com/ryansb/gitbyatruck
-       
-       Working on this with Ryan Brown, it is a replacement for the tool known as "git by a bus" which scans through a repository and checks which developers commited to which file. "Git by a Truck" answers the question about a repository "if 20 of the developer team were to be hit by a bus, would the project survive?" I am currently implementing the front end to display the rest points.
-       
-       
+        
 
-       Deploying DockerSeptember 2014
        
-       Deploying Docker on a Computer Science House server known as Hactar. 
-
-       Please check out my github to see other projects!
+       It is a replacement for the tool known as "git by a bus" which scans
+       through a repository and checks which developers commited to which file.
+       "Git by a Truck" answers the question about a repository "if 20 of the
+       developer team were to be hit by a bus, would the project survive?" The
+       project is written using the Pyramid framework, a python web framework. 
+       Using libgit for C bindings, and stored procedures that are triggered 
+       on insert, we add information about a repository and process it. The
+       front-end rest points are currently being written by me, as well as pretty D3
+       javascript graphs.
+       
     
 
 Experience
 	
-        Earth MovesBased in Rochester, NY04/15/2014 - 08/30/2014Web Developer
+        Earth MovesApril 2014 to August 2014Web Developer
+        
 
 		
-		Worked on several applications per client request. My two main projects were building a web scraper to pull thousands of eye glass frames and aggregate them, from several websites, this was written using the Python library Scrapy and bootstrap CSS to display data. Then I built a web application for doctor's and hospitals to manage their operation trays, which was written in Python using the Pyramid Pylons framework and bootstrap CSS framework.
-		
+        Worked on several applications per client request. My two main projects
+        were building a web scraper to pull thousands of eye glass frames and
+        aggregate them, from several websites, this was written using the Python
+        library Scrapy and bootstrap CSS to display data. Then I built a web
+        application for doctor's and hospitals to manage their operation trays,
+        which was written in Python using the Pyramid Pylons framework and
+        bootstrap CSS framework. 
 		
 
-		Magic@Rochester Institute of TechnologyRochester, NY09/15/2014 - PresentJava Back-end Web Developerhttp://magic.rit.edu/main/index.html
+		Magic@Rochester Institute of TechnologyAugust 2014 to PresentJava Back-end Web Developerhttp://magic.rit.edu/main/index.html
+        
 
 		
-        Working on writing a web application that uses ArchivesSpace - a standard for museum websites, to display data about toy makers. It is meant to be displayed in a children's museum soon.
-	
+        Working on writing a web application that uses ArchivesSpace - a
+        standard for museum websites, to display data about toy makers. It is
+        meant to be displayed in a children's museum soon. 
 Extracurricular Clubs  Activities
 	
         FOSSBox(Free Open Source Software Box) - Active memberhttp://magic.rit.edu/foss/
 		CSH (Computer Science House) - Full Active memberhttp://www.csh.rit.edu/
 		US FIRST Robotics Team 3397 - Lead programmerhttp://www.usfirst.org/
-	
-
-Special Accomplishments
-	
-		Joined CSH (Computer Science House). Coming to school knowing relatively little, by the time I finished my first academic year while a member of CSH, I had written a fully functioning REST API for a house service, as well as a dynamic webscraper.http://www.csh.rit.edu/
 	
 
 
