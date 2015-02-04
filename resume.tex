@@ -4,7 +4,7 @@
 \usepackage{anysize}
 \usepackage[unicode]{hyperref}
 \hypersetup{
-	pdftitle={Susan Lunn's Resume},
+    pdftitle={Susan Lunn's Resume},
 	pdfauthor={Susan Lunn},
 	pdfborder={0 0 0},
 	unicode=true
@@ -12,18 +12,17 @@
 \marginsize{0.375in}{1.875in}{0.375in}{0.375in}
 \setdefaultitem{\footnotesize \textbullet}{}{}{}{}{}
 \setdefaultleftmargin{0em}{}{}{}{}{}
-\setdefaultenum{$\bullet$}{(1)}{}{}{}{}
 \newcommand{\rurl}[1]{\hfill {\footnotesize \url{#1}}}
 \newcommand{\rdate}[1]{\hfill {\small #1}}
-\renewcommand{\employer}[5]{\item[#1] - #2 \rdate{#3} \\* #4 \rurl{#5} \\*}
+\newcommand{\rproject}[4]{\item[#1] \hfill \rdate{#2} \\* \hfill \rdate{#3} \strut\hfill \rurl{#4} \\*}
 \begin{document}
 \name{\Large Susan K. Lunn}
 \begin{resume}
 \section{\mysidestyle Contact \\ Information} \vspace{2mm}
 	\begin{asparablank}
 		\item Rochester Institute of Technology \hfill (802)-309-4493
-		\item PO Box 92423 \hfill slunn@csh.rit.edu
-		\item Rochester, NY 14692 \hfill github.com/emollient
+		\item 1535 South Ave \hfill slunn@csh.rit.edu
+		\item Rochester, NY 14620 \hfill github.com/emollient
 	\end{asparablank}
 
 \section{\mysidestyle Objective}
@@ -35,105 +34,95 @@
 \section{\mysidestyle Education}
 	\begin{compactdesc}
 		\item[Rochester Institute of Technology] - Rochester, NY \rdate{August 2013 - Present}
-		\begin{compactitem} { \small
-			\item Major: B.S./M.S. Computer Science
-		} \end{compactitem}
-		\begin{compactitem} { \small
+		\begin{asparablank} { \small
+			\item Major: B.S. Computer Science
+		} \end{asparablank}
+		\begin{asparablank} { \small
 			\item Expected Graduation: May 2018
-		} \end{compactitem}
+		} \end{asparablank}
 	\end{compactdesc}
 
 \section{\mysidestyle Technical Skills \& Certifications}
 	\begin{compactdesc}
-		\item[Languages: ] \begin{inparaenum} { \small
-			\item Python
-            \item C
-			\item Bash
-			\item Java
-		} \end{inparaenum}
-        \item[Exposed Languages: ] \begin{inparaenum}{ \small
-            \item Julia
-            \item Haskell
-            \item Go
-            \item Javascript
-        } \end{inparaenum}
-		\item[Operating Systems: ] \begin{inparaenum} { \small
-            \item Linux 
-			\item Mac OS X
-		} \end{inparaenum}
-		\item[Tools: ] \begin{inparaenum} { \small
-            \item Git
-			\item Make
-			\item \LaTeX
-		} \end{inparaenum}
+		\item[Languages: ] \begin{asparablank} { \small
+			\item Python, C, Java
+		} \end{asparablank}
+        \item[Exposed Languages: ] \begin{asparablank}{ \small
+            \item Julia, Haskell, Go, Javascript
+        } \end{asparablank}
+		\item[Operating Systems: ] \begin{asparablank} { \small
+            \item Linux, Mac OSX
+		} \end{asparablank}
+		\item[Tools: ] \begin{asparablank} { \small
+            \item Git, Make, \LaTeX
+		} \end{asparablank}
 	\end{compactdesc}
 
 \section{\mysidestyle Current Personal Projects}
     \begin{asparadesc}
-       \employer{Deploying Docker}{November 2014}{}{}{}
+        \rproject{Deploying Docker}{November 2014}{}{https://www.docker.com/}
        \small
-       Deployed a linux container platform that allows the automation of
-       software applications on a local Computer Science House machine known
+       Deployed a {\bf linux container} platform that allows the {\bf automation of
+       software} applications on a local Computer Science House machine known
        as Hactar. Docker builds on top of a few different linux container 
-       technologies, and we used it as a test platform for in-house written 
+       technologies, and we used it as a {\bf test platform} for in-house written 
        applications. 
        \normalsize
        \\
-       \employer{Algorithmically}{November 2014}{}{}{}
+       \rproject{Algorithmically}{November 2014}{}{https://github.com/emollient/Algorithmically}
        \small 
-       Implements several different common algorithms and data structures in 
+       Implements several different {\bf common algorithms} and {\bf data structures} in 
        popular as well as new, cutting edge programming languages. Then running
-       the unix time command and some nifty bash, it records the time each
+       the {\bf unix} time command and some nifty bash, it records the time each
        algorithm takes to run and stores the value. The values are then
-       graphified and published online, using D3 javascript to graphify them.
+       graphified and published online, using {\bf D3 javascript} to graphify them.
        \normalsize
        \\
-       \employer{MyShell}{December 2014}{}{}{}
+       \rproject{MyShell}{December 2014}{}{}
        \small
-       Wrote a basic unix shell in C that implements piping, standard I/O
-       redirection and all commands found within the PATH variable as 
+       Wrote a basic {\bf unix shell} in C that implements {\bf piping}, {\bf standard I/O
+       redirection} and all commands found within the {\bf PATH variable} as 
        well as a set of its own internal commands.
        \normalsize
        \\
-        \employer{Git by a Truck}{September 2014}{}{}{https://github.com/ryansb/gitbyatruck}
-        \\
+       \rproject{Git by a Truck}{September 2014}{}{https://github.com/ryansb/gitbyatruck}
        \small
-       It is a replacement for the tool known as "git by a bus" which scans
+       It is a replacement for the tool known as ``git by a bus" which scans
        through a repository and checks which developers commited to which file.
-       "Git by a Truck" answers the question about a repository "if 20\% of the
+       ``Git by a Truck" answers the question about a {\bf repository} ``if 20\% of the
        developer team were to be hit by a bus, would the project survive?" The
-       project is written using the Pyramid framework, a python web framework. 
-       Using libgit for C bindings, and stored procedures that are triggered 
+       project is written using the {\bf Pyramid framework}, a python web framework. 
+       Using {\bf libgit for C bindings}, and {\bf stored procedures} that are triggered 
        on insert, we add information about a repository and process it. The
-       front-end rest points are currently being written by me, as well as pretty D3
-       javascript graphs.
+       front-end rest points are currently being written by me, as well as pretty {\bf D3
+       javascript graphs}.
        \normalsize
     \end{asparadesc}
 
 \section{\mysidestyle Experience}
 	\begin{asparadesc}
-        \employer{Earth Moves}{April 2014 to August 2014}{}{Web Developer}{}
+        \rproject{Earth Moves}{April 2014 to August 2014}{Fullstack Web Developer}{}
         \\
 		\small
         Worked on several applications per client request. My two main projects
-        were building a web scraper to pull thousands of eye glass frames and
-        aggregate them, from several websites, this was written using the Python
-        library Scrapy and bootstrap CSS to display data. Then I built a web
-        application for doctor's and hospitals to manage their operation trays,
-        which was written in Python using the Pyramid Pylons framework and
-        bootstrap CSS framework. \normalsize
+        were building a {\bf web scraper} to pull thousands of eye glass frames and
+        aggregate them, from several websites, this was written using the {\bf Python
+        library Scrapy}and {\bf Bootstrap CSS} to display data. Then I built a {\bf web
+        application} for doctor's and hospitals to manage their operation trays,
+        which was written in Python using the {\bf Pyramid Pylons framework} and
+        {\bf Bootstrap CSS framework}. \normalsize
 		\\
-		\employer{Magic@Rochester Institute of Technology}{August 2014 to Present}{}{Java Back-end Web Developer}{http://magic.rit.edu/main/index.html}
+        \rproject{Media Arts Games Interaction and Creativity Center at RIT}{August 2014 to Present}{Back-end Web Developer}{http://magic.rit.edu/main/index.html}
         \\
 		\small
-        Working on writing a web application that uses ArchivesSpace - a
+        Working on writing a web application that uses {\bf ArchivesSpace} - a
         standard for museum websites, to display data about toy makers. It is
         meant to be displayed in a children's museum soon. \end{asparadesc}
 \section{\mysidestyle Extracurricular Clubs \& Activities}
 	\begin{asparablank}
-        \item FOSSBox({\small Free Open Source Software Box}) - Active member\rurl{http://magic.rit.edu/foss/}
-		\item CSH ({\small Computer Science House}) - Full Active member\rurl{http://www.csh.rit.edu/}
-		\item US FIRST Robotics Team 3397 - {\small Lead programmer}\rurl{http://www.usfirst.org/}
+    \item FOSSBox({\small Free Open Source Software Box}) - {\small Active member}\rurl{http://magic.rit.edu/foss/}
+    \item CSH ({\small Computer Science House}) - {\small Full Active member}\rurl{http://www.csh.rit.edu/}
+    \item US FIRST Robotics Team 3397 - {\small Lead programmer}\rurl{http://www.usfirst.org/}
 	\end{asparablank}
 
 \end{resume}
