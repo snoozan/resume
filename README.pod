@@ -201,7 +201,7 @@ L<https://linkedin.com>
 =back
 
 Worked to make logs from CF Engine humanly readible. Built thousands of servers
-and helped the process which enabaled them to be built more effectively. Helped
+and helped the process which enabled them to be built more effectively. Helped
 Linkedin finalize which container solution to continue with.
 
 =head3 Golisano College of Computing and Informational Sciences
