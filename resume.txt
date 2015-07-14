@@ -4,7 +4,7 @@
 
 
 
-	pdftitle=Susan Lunn's Resume,
+    pdftitle=Susan Lunn's Resume,
 	pdfauthor=Susan Lunn,
 	pdfborder=0 0 0,
 	unicode=true
@@ -12,7 +12,6 @@
 0.375in1.875in0.375in0.375in
 
 0em
-(1)
 
 
 
@@ -23,21 +22,20 @@ Contact
  Information 
 	
 		Rochester Institute of Technology (802)-309-4493
-		PO Box 92423 slunn@csh.rit.edu
-		Rochester, NY 14692 github.com/emollient
+		1200 Haight Street slunn@csh.rit.edu
+		San Francisco, CA, 94117 github.com/emollient
 	
 
 Objective
 	
-    	Seeking 6 month co-op employment starting May 2015 until December
-        2015.
+    	Seeking 4 month co-op employment starting August 2015 until January 2016.
 	
 
 Education
 	
 		[Rochester Institute of Technology] - Rochester, NY August 2013 - Present
 		  
-			Major: B.S./M.S. Computer Science
+			Major: B.S. Computer Science
 		 
 		  
 			Expected Graduation: May 2018
@@ -47,65 +45,32 @@ Education
 Technical Skills  Certifications
 	
 		[Languages: ]   
-			Python
-            C
-			Bash
-			Java
+			Python, C, Haskell, Standard ML, Java, Javascript, R
 		 
-        [Exposed Languages: ]  
-            Julia
-            Haskell
-            Go
-            Javascript
-         
 		[Operating Systems: ]   
-            Linux 
-			Mac OS X
+            RHEL 6, Arch, Solaris, Fedora, CoreOS
 		 
 		[Tools: ]   
-            Git
-			Make
-			
+            Git, Make, , Docker, BASH 
 		 
 	
 
-Current Personal Projects
+Personal Projects
     
-       Deploying DockerNovember 2014
-       
-       Deployed a linux container platform that allows the automation of
-       software applications on a local Computer Science House machine known
-       as Hactar. Docker builds on top of a few different linux container 
-       technologies, and we used it as a test platform for in-house written 
-       applications. 
-       
-       
-
-       AlgorithmicallyNovember 2014
-       
-       Implements several different common algorithms and data structures in 
-       popular as well as new, cutting edge programming languages. Then running
-       the unix time command and some nifty bash, it records the time each
-       algorithm takes to run and stores the value. The values are then
-       graphified and published online, using D3 javascript to graphify them.
-       
-       
-
-       MyShellDecember 2014
-       
-       Wrote a basic unix shell in C that implements piping, standard I/O
-       redirection and all commands found within the PATH variable as 
-       well as a set of its own internal commands.
-       
-       
-
-        Git by a TruckSeptember 2014https://github.com/ryansb/gitbyatruck
+        AphroditeFebruary 2015https://github.com/emollient/Aphrodite
+        
+        A Haskell web app using the Scotty framework and Yesod's Template Haskell 
+        that finds all the local Planned Parenthoods within an address/GPS location, and routes the user
+        there via public transportation. It is aimed at low-income women without access to personal
+        transportation.
+        
         
 
+       Git by a TruckSeptember 2014https://github.com/ryansb/gitbyatruck
        
-       It is a replacement for the tool known as "git by a bus" which scans
+       It is a replacement for the tool known as ``git by a bus" which scans
        through a repository and checks which developers commited to which file.
-       "Git by a Truck" answers the question about a repository "if 20 of the
+       ``Git by a Truck" answers the question about a repository ``if 20 of the
        developer team were to be hit by a bus, would the project survive?" The
        project is written using the Pyramid framework, a python web framework. 
        Using libgit for C bindings, and stored procedures that are triggered 
@@ -117,31 +82,52 @@ Current Personal Projects
 
 Experience
 	
-        Earth MovesApril 2014 to August 2014Web Developer
+        LinkedInJune 2015 to PresentSystems Engineer Internhttps://www.linkedin.com/
+        
+
+        
+        Worked to make logs from CF Engine humanly readible. Built thousands of servers and helped automate
+        the process which enabled them to be built more effectively. Helped LinkedIn finzalize which container 
+        solution to continue on with.
+        
+        
+
+        Golisano College of Computing and Informational SciencesJanuary 2015 to May 2015Research Assistanthttp://www.mlton.org/ 
+        
+
+        
+        Developed a micro-benchmarker that produced statistics and graphs for provided executables
+        and their corresponding arguments. Written with a python script with output piped into
+        a graph generating R script, it produced box-and-whisker plots as well as outputting ANOVA and
+        T-tests for the supplied executables.
+        
+        
+
+        Media Arts Games Interaction and Creativity Center at RITAugust 2014 to January 2015Back-end Web Developerhttp://magic.rit.edu/main/index.html
+		
+        
+
+        Worked on writing a web application that uses ArchivesSpace - a
+        standard for museum websites, to display data about toy makers.
+        
+
+        Earth MovesApril 2014 to August 2014Fullstack Web Developer
         
 
 		
         Worked on several applications per client request. My two main projects
         were building a web scraper to pull thousands of eye glass frames and
         aggregate them, from several websites, this was written using the Python
-        library Scrapy and bootstrap CSS to display data. Then I built a web
+        library Scrapyand Bootstrap CSS to display data. Then I built a web
         application for doctor's and hospitals to manage their operation trays,
         which was written in Python using the Pyramid Pylons framework and
-        bootstrap CSS framework. 
-		
-
-		Magic@Rochester Institute of TechnologyAugust 2014 to PresentJava Back-end Web Developerhttp://magic.rit.edu/main/index.html
-        
-
-		
-        Working on writing a web application that uses ArchivesSpace - a
-        standard for museum websites, to display data about toy makers. It is
-        meant to be displayed in a children's museum soon. 
+        Bootstrap CSS framework. 
+    
 Extracurricular Clubs  Activities
 	
-        FOSSBox(Free Open Source Software Box) - Active memberhttp://magic.rit.edu/foss/
-		CSH (Computer Science House) - Full Active memberhttp://www.csh.rit.edu/
-		US FIRST Robotics Team 3397 - Lead programmerhttp://www.usfirst.org/
+    CSH (Computer Science House) - Full Active memberhttp://www.csh.rit.edu/
+    FOSSBox (Free Open Source Software Box) - Active memberhttp://magic.rit.edu/foss/
+    US FIRST Robotics Team 3397 - Lead programmerhttp://www.usfirst.org/
 	
 
 

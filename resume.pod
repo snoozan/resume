@@ -5,10 +5,10 @@
 =over
 
 =item
-1535 South Ave
+1200 Haight Street
 
 =item
-Rochester, NY 14620
+San Francisco, CA 94117 
 
 =item
 L<slunn@csh.rit.edu>
@@ -20,7 +20,7 @@ L<http:github.com/emollient/>
 
 =head2 Objective
 
-I am looking for a double-block co-op starting May 2015 until Decemeber of 2015.
+I am looking for a fall co-op starting August 2015 until Decemeber of 2015.
 
 =head2 Summary
 
@@ -60,17 +60,7 @@ Expected graduation: May 2018
 
 =item
 
-Python, C, BASH, Java
-
-=back
-
-=item Exposed Languages
-
-=over
-
-=item
-
-Julia, Haskell, Go, Javascript
+Python, C, Haskell, Java, Javascript, R
 
 =back
 
@@ -80,7 +70,7 @@ Julia, Haskell, Go, Javascript
 
 =item
 
-Arch, Fedora(16+), OSX
+RHEL 6, Arch, Solaris, Fedora(16+), CoreOS
 
 =back
 
@@ -90,13 +80,30 @@ Arch, Fedora(16+), OSX
 
 =item
 
-Docker, Git, Make, LaTeX, parted
+Docker, Git, Make, LaTeX, BASH 
 
 =back
 
 =back
 
-=head2 Current Personal Projects
+=head2 Personal Projects
+
+=head3 Aphrodite
+
+=over
+
+=item 
+
+February 2015
+
+=item
+
+A Haskell web app using the Scotty framework and Yesod's Template Haskell that
+finds all the local Planned Parenthoods within an address/GPS location via the
+Google API, and routes the user there via public transportation. It is aimed at
+low-income women without access to personal transportation.
+
+=back
 
 =head3 Deploying Docker
 
@@ -175,6 +182,51 @@ within the PATH variable as well as a set of its own internal commands.
 
 =head2 Experience
 
+=head3 LinkedIn
+
+=over
+
+=item 
+
+Systems Engineer Intern
+
+=item
+
+06/08/2015 - Present
+
+=item 
+
+L<https://linkedin.com>
+
+=back
+
+Worked to make logs from CF Engine humanly readible. Built thousands of servers
+and helped the process which enabaled them to be built more effectively. Helped
+Linkedin finalize which container solution to continue with.
+
+=head3 Golisano College of Computing and Informational Sciences
+
+=over
+
+=item
+
+Computer Science Researcher
+
+=item
+
+01/29/2015 - 05/15/2015
+
+=item
+
+L<https://www.cs.rit.edu/research/overview>
+
+=back
+
+Developed a micro-benchmarker that produced statistics and graphs for provided
+executables and their corresponding arguments. Written with a python script with
+output piped into a graph generated R script, it produced box-and-whisker plots
+as well as outputting ANOVA and T-tests for the supplied executables.
+
 =head3 MAGIC Center @ RIT
 
 =over
@@ -185,7 +237,7 @@ Back-end web developer - R+D
 
 =item 
 
-08/15/2014 - Current
+08/15/2014 - 01/15/2015 
 
 =item
 
