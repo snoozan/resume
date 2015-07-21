@@ -87,7 +87,7 @@ Experience
 
         
         Worked to make logs from CF Engine humanly readible. Built thousands of servers and helped automate
-        the process which enabled them to be built more effectively. Helped LinkedIn finzalize which container 
+        the process which enabled them to be built more effectively. Helped LinkedIn finalize which container 
         solution to continue on with.
         
         
@@ -118,10 +118,7 @@ Experience
         Worked on several applications per client request. My two main projects
         were building a web scraper to pull thousands of eye glass frames and
         aggregate them, from several websites, this was written using the Python
-        library Scrapyand Bootstrap CSS to display data. Then I built a web
-        application for doctor's and hospitals to manage their operation trays,
-        which was written in Python using the Pyramid Pylons framework and
-        Bootstrap CSS framework. 
+        library Scrapyand Bootstrap CSS to display data.
     
 Extracurricular Clubs  Activities
 	
