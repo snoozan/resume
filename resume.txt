@@ -28,7 +28,7 @@ Contact
 
 Objective
 	
-    	Seeking 4 month co-op employment starting August 2015 until January 2016.
+    	Seeking 6 month co-op employment starting May 2017 until January 2018.
 	
 
 Education
@@ -48,15 +48,33 @@ Technical Skills  Certifications
 			Python, C, Haskell, Standard ML, Java, Javascript, R
 		 
 		[Operating Systems: ]   
-            RHEL 6, Arch, Solaris, Fedora, CoreOS
+            Linux, OmniOS/Illumos, FreeBSD, Solaris
 		 
 		[Tools: ]   
-            Git, Make, , Docker, BASH 
+            Git, Make, , BASH
+		 
+		[Services: ]   
+            TravisCI, Docker, RKT, Jenkins, Zabbix, DNS
 		 
 	
 
 Personal Projects
     
+        DNS for Computer Science HouseApril 2016
+        
+        Created tertiary DNS set up for Computer Science House services, using bind. 
+        Wrote a python script to integrate with our IPAM database, allowing accurate 
+        DNS propagation. 
+        
+        
+
+        Zabbix for Computer Science HouseMarch 2016
+        
+        Set up the Zabbix monitoring software for Computer Science House services 
+        and machine, with full LDAP integration and our own star SSL cert.
+        
+        
+
         AphroditeFebruary 2015https://github.com/emollient/Aphrodite
         
         A Haskell web app using the Scotty framework and Yesod's Template Haskell 
@@ -64,25 +82,31 @@ Personal Projects
         there via public transportation. It is aimed at low-income women without access to personal
         transportation.
         
-        
-
-       Git by a TruckSeptember 2014https://github.com/ryansb/gitbyatruck
-       
-       It is a replacement for the tool known as ``git by a bus" which scans
-       through a repository and checks which developers commited to which file.
-       ``Git by a Truck" answers the question about a repository ``if 20 of the
-       developer team were to be hit by a bus, would the project survive?" The
-       project is written using the Pyramid framework, a python web framework. 
-       Using libgit for C bindings, and stored procedures that are triggered 
-       on insert, we add information about a repository and process it. The
-       front-end rest points are currently being written by me, as well as pretty D3
-       javascript graphs.
-       
     
 
 Experience
 	
-        LinkedInJune 2015 to PresentSystems Engineer Internhttps://www.linkedin.com/
+        Student Government RITJanuary 2016 to PresentJunior Quality Engineerhttp://www.sg-rit.edu/
+        
+
+        
+        Build tools and processes for continuous integration within the Services team
+        for Student Government. Using TravisCI and adding rules for Github pushes and
+        commits.
+        
+        
+
+        DelphixAugust 2015 to January 2016Operations Engineer Internhttps://www.delphix.com/
+        
+
+        
+		Using Jenkins and a series of shell scripts, worked on automating the process for standing up a build
+		server. This involved intimate knowledge of OmniOS packaging (IPS) as well as delving in to the internals
+		of the Delphix stack.
+        
+        
+
+        LinkedInJune 2015 to August 2015Systems Engineer Internhttps://www.linkedin.com/
         
 
         
@@ -107,18 +131,14 @@ Experience
 		
         
 
-        Worked on writing a web application that uses ArchivesSpace - a
-        standard for museum websites, to display data about toy makers.
+        Python web application developer. Tools used were Pyramid, SQLAlchemy, and Bootstrap CSS.
         
 
         Earth MovesApril 2014 to August 2014Fullstack Web Developer
         
 
 		
-        Worked on several applications per client request. My two main projects
-        were building a web scraper to pull thousands of eye glass frames and
-        aggregate them, from several websites, this was written using the Python
-        library Scrapyand Bootstrap CSS to display data.
+        Python web application developer. Tools used were Pyramid, SQLAlchemy, and Bootstrap CSS.
     
 Extracurricular Clubs  Activities
 	
