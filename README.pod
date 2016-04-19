@@ -20,18 +20,11 @@ L<http:github.com/emollient/>
 
 =head2 Objective
 
-I am looking for a fall co-op starting August 2015 until Decemeber of 2015.
+Seeking 6 month co-op employment starting May 2017 until January 2018.
 
 =head2 Summary
 
-I am incredibly passionate about Free Open Source Software and Women in Computing.
-These are both issues I hold near and dear and try my hardest to contribute to each
-to their respective communities. When time permits, I am contributing to open source
-projects on Github as well as volunteering for the local chapter of Girl Develop It. 
-I've also come to realize that most of my learning, especially in the Computer Science 
-field, must be done outside of the classroom setting. As such, I spend much of my 
-free time working on personal projects and have subsequently been able to pick up
-new things relatively quickly.
+
 
 =head2 Education
 
@@ -54,13 +47,13 @@ Expected graduation: May 2018
 
 =over
 
-=item Fluent Languages
+=item Languages
 
 =over
 
 =item
 
-Python, C, Haskell, Java, Javascript, R
+Python, C, Haskell, Standard ML, Java, Javascript, R
 
 =back
 
@@ -70,7 +63,7 @@ Python, C, Haskell, Java, Javascript, R
 
 =item
 
-RHEL 6, Arch, Solaris, Fedora(16+), CoreOS
+Linux, OmniOS/Illumos, FreeBSD, Solaris
 
 =back
 
@@ -80,13 +73,54 @@ RHEL 6, Arch, Solaris, Fedora(16+), CoreOS
 
 =item
 
-Docker, Git, Make, LaTeX, BASH 
+Git, Make, \LaTeX, BASH
+
+=back
+
+=item Services
+
+=over
+
+=item
+
+Docker, RKT, Jenkins, Zabbix, DNS
 
 =back
 
 =back
 
 =head2 Personal Projects
+
+=head3 DNS for Computer Science House
+
+=over
+
+=item 
+
+April 2016
+
+=item
+
+Created tertiary DNS set up for Computer Science House services, using bind. 
+Wrote a python script to integrate with our IPAM database, allowing accurate 
+DNS propagation. 
+
+=back
+
+=head3 Zabbix for Computer Science House
+
+=over
+
+=item 
+
+March 2016
+
+=item
+
+Set up the Zabbix monitoring software for Computer Science House services 
+and machine, with full LDAP integration and our own star SSL cert.
+
+=back
 
 =head3 Aphrodite
 
@@ -182,6 +216,50 @@ within the PATH variable as well as a set of its own internal commands.
 
 =head2 Experience
 
+=head3 Rochester Institute of Technology Student Government Services
+
+=over
+
+=item 
+
+Junior Quality Engineer
+
+=item
+
+January 2016 - Present 
+
+=item 
+
+L<http://sg-rit.edu>
+
+=back
+
+Build tools and processes for continuous integration within the Services team
+for Student Government. Using TravisCI and adding rules for Github pushes and
+commits.
+
+=head3 Delphix 
+
+=over
+
+=item 
+
+Operations Engineer Intern
+
+=item
+
+August 2015 - January 2016 
+
+=item 
+
+L<https://delphix.com>
+
+=back
+
+Using Jenkins and a series of shell scripts, worked on automating the process for 
+standing up a build server. This involved intimate knowledge of OmniOS packaging (IPS)
+as well as delving in to the internals of the Delphix stack.
+
 =head3 LinkedIn
 
 =over
@@ -201,7 +279,7 @@ L<https://linkedin.com>
 =back
 
 Worked to make logs from CF Engine humanly readible. Built thousands of servers
-and helped the process which enabled them to be built more effectively. Helped
+and helped the process which enabaled them to be built more effectively. Helped
 Linkedin finalize which container solution to continue with.
 
 =head3 Golisano College of Computing and Informational Sciences
