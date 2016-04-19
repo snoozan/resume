@@ -22,10 +22,6 @@ L<http:github.com/emollient/>
 
 Seeking 6 month co-op employment starting May 2017 until January 2018.
 
-=head2 Summary
-
-
-
 =head2 Education
 
 =over
@@ -73,7 +69,7 @@ Linux, OmniOS/Illumos, FreeBSD, Solaris
 
 =item
 
-Git, Make, \LaTeX, BASH
+Git, Make, LaTeX, BASH, Ansible, Puppet
 
 =back
 
@@ -152,50 +148,6 @@ November 2014
 Deployed a linux container platform that allows the automation of software applications on a local Computer
 Science House machine known as Hactar. Docker builds on top of a few different linux container technologies,
 and we used it as a test platform for in-house written applications
-
-=back
-
-=head3 Algorithmically
-
-=over
-
-=item
-
-December 2014 - Present
-
-=item
-
-L<https://github.com/emollient/Algorithmically>
-
-=item
-
-Implements several different common algorithms and data structures in popular as well as new, cutting edge
-programming languages. Then running the unix time command and some nifty bash, it records the time
-each algorithm takes to run and stores the value. The values are then graphified and published online, using
-D3 javascript to graphify them
-
-=back
-
-=head3 Git By a Truck
-
-=over
-
-=item 
-
-September 2014 - Present
-
-=item
-
-L<https://github.com/ryansb/gitbyatruck>
-
-=item
-
-It is a replacement for the tool known as ”git by a bus” which scans through a repository and checks
-which developers commited to which file. ”Git by a Truck” answers the question about a repository ”if 20%
-of the developer team were to be hit by a bus, would the project survive?” The project is written using
-the Pyramid framework, a python web framework. Using libgit for C bindings, and stored procedures that
-are triggered on insert, we add information about a repository and process it. The front-end rest points are
-currently being written by me, as well as pretty D3 javascript graphs.
 
 =back
 
