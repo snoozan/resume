@@ -22,13 +22,13 @@ Contact
  Information 
 	
 		Rochester Institute of Technology (802)-309-4493
-		1200 Haight Street slunn@csh.rit.edu
-		San Francisco, CA, 94117 github.com/emollient
+		1325 Guerrero Street susan@lunn.io
+		San Francisco, CA, 94110 github.com/snoozan
 	
 
 Objective
 	
-    	Seeking 6 month co-op employment starting May 2017 until January 2018.
+    	Seeking 4 month co-op employment starting September 2016 until January 2017.
 	
 
 Education
@@ -42,32 +42,21 @@ Education
 		 
 	
 
-Technical Skills  Certifications
+Technical Skills
 	
 		[Languages: ]   
-			Python, C, Haskell, Standard ML, Java, Javascript, R
+			Python, Bash, C, Java, Javascript, R, Go
 		 
 		[Operating Systems: ]   
             Linux, OmniOS/Illumos, FreeBSD, Solaris
 		 
-		[Tools: ]   
-            Git, Make, , BASH
-		 
-		[Services: ]   
-            TravisCI, Docker, RKT, Jenkins, Zabbix, DNS
+		[Tools and Services: ]   
+            Solr, TravisCI, Docker, RKT, Jenkins, Zabbix, Git
 		 
 	
 
 Personal Projects
     
-        DNS for Computer Science HouseApril 2016
-        
-        Created tertiary DNS set up for Computer Science House services, using bind. 
-        Wrote a python script to integrate with our IPAM database, allowing accurate 
-        DNS propagation. 
-        
-        
-
         Zabbix for Computer Science HouseMarch 2016
         
         Set up the Zabbix monitoring software for Computer Science House services 
@@ -75,24 +64,32 @@ Personal Projects
         
         
 
-        AphroditeFebruary 2015https://github.com/emollient/Aphrodite
+        AphroditeFebruary 2015https://github.com/snoozan/Aphrodite
         
         A Haskell web app using the Scotty framework and Yesod's Template Haskell 
         that finds all the local Planned Parenthoods within an address/GPS location, and routes the user
-        there via public transportation. It is aimed at low-income women without access to personal
-        transportation.
+        there via public transportation.
         
     
 
 Experience
 	
-        Student Government RITJanuary 2016 to PresentJunior Quality Engineerhttp://www.sg-rit.edu/
+        AppleMay 2016 to PresentSoftware Engineer Internhttps://apple.com/
+        
+
+        
+        Worked on adding a collection based restore to SolrCloud, a distributed system and manager
+        of Solr.
+        
+        
+
+
+        Student Government RITJanuary 2016 to May 2016Junior Quality Engineerhttp://www.sg-rit.edu/
         
 
         
         Build tools and processes for continuous integration within the Services team
-        for Student Government. Using TravisCI and adding rules for Github pushes and
-        commits.
+        for Student Government.
         
         
 
@@ -111,34 +108,13 @@ Experience
 
         
         Worked to make logs from CF Engine humanly readible. Built thousands of servers and helped automate
-        the process which enabled them to be built more effectively. Helped LinkedIn finalize which container 
-        solution to continue on with.
+        the process which enabled them to be built more effectively.
         
         
 
         Golisano College of Computing and Informational SciencesJanuary 2015 to May 2015Research Assistanthttp://www.mlton.org/ 
-        
-
-        
-        Developed a micro-benchmarker that produced statistics and graphs for provided executables
-        and their corresponding arguments. Written with a python script with output piped into
-        a graph generating R script, it produced box-and-whisker plots as well as outputting ANOVA and
-        T-tests for the supplied executables.
-        
-        
-
         Media Arts Games Interaction and Creativity Center at RITAugust 2014 to January 2015Back-end Web Developerhttp://magic.rit.edu/main/index.html
-		
-        
-
-        Python web application developer. Tools used were Pyramid, SQLAlchemy, and Bootstrap CSS.
-        
-
         Earth MovesApril 2014 to August 2014Fullstack Web Developer
-        
-
-		
-        Python web application developer. Tools used were Pyramid, SQLAlchemy, and Bootstrap CSS.
     
 Extracurricular Clubs  Activities
 	

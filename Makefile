@@ -1,5 +1,5 @@
 # Source files
-PODFILES := resume.pod
+PODFILES := README.pod
 TEXFILES := resume.tex
 
 # Binaries

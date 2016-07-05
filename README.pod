@@ -5,22 +5,16 @@
 =over
 
 =item
-1200 Haight Street
+L<susan@lunn.io>
 
 =item
-San Francisco, CA 94117 
-
-=item
-L<slunn@csh.rit.edu>
-
-=item
-L<http:github.com/emollient/>
+L<http:github.com/snoozan/>
 
 =back
 
 =head2 Objective
 
-Seeking 6 month co-op employment starting May 2017 until January 2018.
+Seeking 6 month co-op employment starting September 2016 until January 2017.
 
 =head2 Education
 
@@ -49,7 +43,7 @@ Expected graduation: May 2018
 
 =item
 
-Python, C, Haskell, Standard ML, Java, Javascript, R
+Python, Bash, C, Haskell, Java, Javascript, R, Go
 
 =back
 
@@ -63,45 +57,20 @@ Linux, OmniOS/Illumos, FreeBSD, Solaris
 
 =back
 
-=item Tools
+=item Tools and Services
 
 =over
 
 =item
 
-Git, Make, LaTeX, BASH, Ansible, Puppet
-
-=back
-
-=item Services
-
-=over
-
-=item
-
-Docker, RKT, Jenkins, Zabbix, DNS
+Git, Make, Ansible, Puppet, Docker, RKT, Jenkins, Zabbix, TravisCI,
+Solr
 
 =back
 
 =back
 
 =head2 Personal Projects
-
-=head3 DNS for Computer Science House
-
-=over
-
-=item 
-
-April 2016
-
-=item
-
-Created tertiary DNS set up for Computer Science House services, using bind. 
-Wrote a python script to integrate with our IPAM database, allowing accurate 
-DNS propagation. 
-
-=back
 
 =head3 Zabbix for Computer Science House
 
@@ -168,6 +137,27 @@ within the PATH variable as well as a set of its own internal commands.
 
 =head2 Experience
 
+=head3 Apple 
+
+=over
+
+=item 
+
+Software Engineer Intern
+
+=item
+
+May 2016 - Present
+
+=item 
+
+L<https://apple.com/>
+
+=back
+
+Worked on adding a collection based restore to SolrCloud, a distributed system and manager
+of Solr.
+
 =head3 Rochester Institute of Technology Student Government Services
 
 =over
@@ -178,7 +168,7 @@ Junior Quality Engineer
 
 =item
 
-January 2016 - Present 
+January 2016 - May 2016
 
 =item 
 
@@ -295,8 +285,9 @@ Web developer
 
 Worked on several applications per client request. My two main projects were building a web scraper
 to pull thousands of eye glass frames and aggregate them, from several websites, this was written using the
-Python library Scrapy and bootstrap CSS to display data. Then I built a web application for doctor’s and
-hospitals to manage their operation trays, which was written in Python using the Pyramid Pylons framework
+Python library Scrapy and bootstrap CSS to display data. Then I built a web
+application for doctors and hospitals to manage their operation trays, which was written in 
+Python using the Pyramid Pylons framework
 and bootstrap CSS framework.
 
 =head2 Extracurricular
