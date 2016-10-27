@@ -4,7 +4,7 @@ TEXFILES := resume.tex
 
 # Binaries
 POD2HTML := pod2html
-LATEX := xelatex
+LATEX := pdflatex 
 POD2LATEX := pod2latex
 DETEX := detex
 

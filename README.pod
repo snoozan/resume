@@ -14,24 +14,7 @@ L<http:github.com/snoozan/>
 
 =head2 Objective
 
-Seeking 6 month co-op employment starting September 2016 until January 2017.
-
-=head2 Education
-
-=over
-
-=item Rochester Institute of Technology - Rochester, NY
-
-=item 
-
-Major: B.S. Computer Science
-
-=item 
-
-Expected graduation: May 2018
-
-=back
-
+Seeking full time employment starting January 2017.
 
 =head2 Technical Skills
 
@@ -63,7 +46,7 @@ Linux, OmniOS/Illumos, FreeBSD, Solaris
 
 =item
 
-Git, Make, Ansible, Puppet, Docker, RKT, Jenkins, Zabbix, TravisCI,
+AWS, Chef, Terraform, Solr, Icinga, Git, Make, Ansible, Puppet, Docker, RKT, Jenkins, Zabbix, TravisCI,
 Solr
 
 =back
@@ -137,6 +120,28 @@ within the PATH variable as well as a set of its own internal commands.
 
 =head2 Experience
 
+=head3 Slack 
+
+=over
+
+=item 
+
+Operations Engineer Intern
+
+=item
+
+September 2016 - Present
+
+=item 
+
+L<https://slack.com/>
+
+=back
+
+Worked on setting up Icinga 2 webUI and high availability distributed monitoring. Helped
+rearchitect Solr to allow for better search within Slack. Terraformed the QA enviroment
+for both multi and main environments.
+
 =head3 Apple 
 
 =over
@@ -147,7 +152,7 @@ Software Engineer Intern
 
 =item
 
-May 2016 - Present
+May 2016 - September 2016 
 
 =item 
 

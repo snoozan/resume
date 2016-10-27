@@ -9,7 +9,7 @@
 	pdfborder=0 0 0,
 	unicode=true
 
-0.375in1.875in0.375in0.375in
+0.375in1.575in0.375in0.375in
 
 0em
 
@@ -19,27 +19,15 @@
 Susan K. Lunn
 
 Contact 
- Information 
+ Information
 	
-		Rochester Institute of Technology (802)-309-4493
-		1325 Guerrero Street susan@lunn.io
-		San Francisco, CA, 94110 github.com/snoozan
+		1200 Haight Street susan@lunn.io
+		San Francisco, CA, 94117 github.com/snoozan
 	
 
 Objective
 	
-    	Seeking 4 month co-op employment starting September 2016 until January 2017.
-	
-
-Education
-	
-		[Rochester Institute of Technology] - Rochester, NY August 2013 - Present
-		  
-			Major: B.S. Computer Science
-		 
-		  
-			Expected Graduation: May 2018
-		 
+    	Seeking full time employment starting January 2017.
 	
 
 Technical Skills
@@ -51,7 +39,7 @@ Technical Skills
             Linux, OmniOS/Illumos, FreeBSD, Solaris
 		 
 		[Tools and Services: ]   
-            Solr, TravisCI, Docker, RKT, Jenkins, Zabbix, Git
+            AWS, Chef, Terraform, Solr, Icinga, TravisCI, Docker, RKT, Jenkins, Zabbix, Git
 		 
 	
 
@@ -74,7 +62,18 @@ Personal Projects
 
 Experience
 	
-        AppleMay 2016 to PresentSoftware Engineer Internhttps://apple.com/
+        SlackSeptember 2016 to PresentOperations Engineer Internhttps://slack.com/
+        
+
+        
+        Worked on setting up Icinga 2 webUI and high availability distributed monitoring. Helped
+        rearchitect Solr to allow for better search within Slack. Terraformed the QA enviroment
+        for both multi and main environments.
+        
+        
+
+
+        AppleMay 2016 to September 2016Software Engineer Internhttps://apple.com/
         
 
         
