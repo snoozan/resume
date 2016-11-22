@@ -63,12 +63,6 @@ Personal Projects
         
         
 
-        AphroditeFebruary 2015https://github.com/snoozan/Aphrodite
-        
-        A Haskell web app using the Scotty framework and Yesod's Template Haskell 
-        that finds all the local Planned Parenthoods within an address/GPS location, and routes the user
-        there via public transportation.
-        
     
 
 Experience
