@@ -14,7 +14,23 @@ L<http:github.com/snoozan/>
 
 =head2 Objective
 
-Seeking full time employment starting January 2017.
+Seeking co-op employment starting May 2017.
+
+=head2 Education
+
+=over
+
+=item Rochester Institute of Technology - Rochester, NY
+
+=item 
+
+Major: B.S. Computer Science
+
+=item 
+
+Expected graduation: May 2018
+
+=back
 
 =head2 Technical Skills
 
