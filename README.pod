@@ -62,8 +62,7 @@ Linux, OmniOS/Illumos, FreeBSD, Solaris
 
 =item
 
-AWS, Chef, Terraform, Solr, Icinga, Git, Make, Ansible, Puppet, Docker, RKT, Jenkins, Zabbix, TravisCI,
-Solr
+AWS, Chef, Terraform, Solr, Icinga, Git, Make, Ansible, Puppet, Docker, RKT, Jenkins, Zabbix, TravisCI
 
 =back
 
